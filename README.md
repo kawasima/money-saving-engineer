@@ -24,7 +24,9 @@
 
 - [What is Web 2.0](https://www.amazon.co.jp/dp/) - Tim O'reillyによるWeb 2.0提唱
 
-## O'reillyの無料レポート
+## O'reillyの無料本/レポート
+
+要氏名、メールアドレス
 
 - [Business](http://www.oreilly.com/business/free/)
 - [Data](http://www.oreilly.com/data/free/)
@@ -33,3 +35,5 @@
 - [Programming](http://www.oreilly.com/programming/free/)
 - [Web Dev](http://www.oreilly.com/web-platform/free/)
 - [WebOps](http://www.oreilly.com/webops-perf/free/)
+
+- [ChatOps](https://victorops.com/knowledge-drop/devops-docs/chatops-managing-operations-group-chat/)
